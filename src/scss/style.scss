@@ -1,0 +1,13 @@
+@import "fonts";
+
+body {
+  box-sizing: border-box;
+  color: red;
+  span {
+    color: blue;
+  }
+}
+
+.header {
+  background: url("@img/1.jpg");
+}
